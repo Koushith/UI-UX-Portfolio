@@ -378,3 +378,22 @@ bt {
   background: #d2d2d2;
   /* background: #7b7b7b; */
 }
+
+
+/* badges */
+
+/* Container holding the image and the text */
+.days {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}

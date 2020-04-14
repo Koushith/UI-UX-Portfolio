@@ -2,13 +2,19 @@
 
 ## Todo List
 
-- [x] Basic File Structure
+ - [x] Basic File Structure
     - [ ] Home Page
     - [x] About
     - [ ] Porffolio
     - [ ] Blog
     - [x] Contact
 
+- [ ] Fix Typos and Grammatical Errors
+- [ ] Code Cleanup
 
-[Live Website](http://www.koushith.com/netlify.com)
+- [ ] Convert into Vue Components
+
+
+[Live Website](http://www.koushith.com/netlify.com) 
    
+[md Cheat Sheets](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
